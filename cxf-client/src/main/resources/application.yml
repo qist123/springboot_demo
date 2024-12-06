@@ -1,0 +1,11 @@
+
+server:
+  port: 30001
+    
+
+logging:
+  level:
+    org:
+      apache:
+        cxf: DEBUG
+

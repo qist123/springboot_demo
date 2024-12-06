@@ -1,0 +1,12 @@
+
+server:
+  port: 30000 # 设置服务器端口为 9090
+
+logging:
+  level:
+    org:
+      apache:
+        cxf: DEBUG
+
+#cxf:
+#  path: /ws
